@@ -3,13 +3,19 @@ Repository gives examples and instruction to ABAP AI SDK:
 - ISLM scenario creation
 - ABAP code snippets with ISLM execution
 - AI Core GENAI execution
-
+  
+# ABAP AI SDK Supported products 
+- SAP S/4HANA Cloud Public Edition as of release 2502
+- SAP S/4HANA Cloud Private Edition & OnPremise as of release 2025 via standard delivery
+- SAP BTP ABAP Environmen as of release 2502
+  
 # Prerequisites 
 - AI Core instance in BTP
 - BTP ABAP Cloud with Business user role BR_ANALYTICS_SPECIALIST
 - Communication arrangement [SAP_COM_A069](https://help.sap.com/docs/btp/sap-business-technology-platform/how-to-configure-communication-system-for-sap-com-0a69-7d691a07627442a3b1d07000417c8056?locale=en-US)
   
   <img width="641" height="171" alt="AI Core Communication Arrangement" src="https://github.com/user-attachments/assets/a8ebf25e-81d5-4e2f-b597-550b3cdddca6" />
+
 
  
 # Intelligent Scenario Lifecycle Management (ISLM)
